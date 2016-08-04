@@ -1,0 +1,28 @@
+_repo: Robert-Louis-Stevenson_3814
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Simpson, E. Blantyre (Evelyn Blantyre)
+    aliases:
+    - Blantyre, Evelyn Simpson
+    - Simpson, Evelyn Blantyre
+    birthdate: 1856
+    deathdate: 1920
+    gutenberg_agent_id: '1315'
+    url: http://www.gutenberg.org/2009/agents/1315
+description: ''
+gutenberg_issued: '2003-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3814'
+  lccn: 06022390
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Stevenson, Robert Louis, 1850-1894'
+- GITenberg
+title: Robert Louis Stevenson
+url: http://www.gutenberg.org/ebooks/3814
